@@ -22,9 +22,9 @@ assistantids = []
 class Userbot(Client):
     def __init__(self):
         self.one = Client(
-            api_id=config.API_ID,
-            api_hash=config.API_HASH,
-            session_name=str(config.STRING1),
+            api_id=config.API_ID,20632724
+            api_hash=config.API_HASH,fcb71f66e685e3ece3c4c36b87ec19de
+            session_name=str(config.STRING1),BQBdATOkT1CK0sHb8iZLJnD8vGUOAvAWijbeyynMxXIZU5QqtG-31p-vPbxeaRN4I8yfTWmXTy0QTXBmV9OaU-VWrkxymkcmdSHWbFGiOsMqCVNnp5QiitbnU1nIc-bCytBIEK4Goi1CkIPMrFxie2s_DwQHio4as6heSFUPDVQcQRZ8xiQjEnJ2BQiVdy5rMDRKz7qBRYp1tPuDb6vdIc4CcOqYUN1F4R-Izr14JS7bBsDmqMkiqRpwkbkWUMpM5mtTDSOi4WjDhHdNKlqfgwRMTgJtUxa6asInc7tIiDH76zauvLb6Hk_D7JEu7LjE5twMHbXDnukJb4cpWGJmUEXnah4Q4QA
             no_updates=True,
         )
         self.two = Client(
