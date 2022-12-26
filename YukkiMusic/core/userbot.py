@@ -57,8 +57,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYM")
-                await self.one.join_chat("TheYukki")
+                await self.one.join_chat("FRIENDS_FOR_REALL")
+                await self.one.join_chat("the_evil_family")
                 await self.one.join_chat("YukkiSupport")
             except:
                 pass
